@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on web development projects and mobile developement.
 - 📫 You can connect with me on LinkedIn: http://www.linkedin.com/in/nur-aina-mohd-rosdi-605a83262
-- 😄 Pronouns: Miss
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a passionate basketball player and always up for a game. Let's hit the court together!
 
 <!---
